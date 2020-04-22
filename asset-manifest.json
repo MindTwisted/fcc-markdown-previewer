@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://mindtwisted.github.io/fcc-markdown-previewer/static/css/main.5facb584.chunk.css",
+    "main.js": "https://mindtwisted.github.io/fcc-markdown-previewer/static/js/main.0023e51c.chunk.js",
+    "main.js.map": "https://mindtwisted.github.io/fcc-markdown-previewer/static/js/main.0023e51c.chunk.js.map",
+    "runtime-main.js": "https://mindtwisted.github.io/fcc-markdown-previewer/static/js/runtime-main.4b2dcafc.js",
+    "runtime-main.js.map": "https://mindtwisted.github.io/fcc-markdown-previewer/static/js/runtime-main.4b2dcafc.js.map",
+    "static/css/2.cd1899df.chunk.css": "https://mindtwisted.github.io/fcc-markdown-previewer/static/css/2.cd1899df.chunk.css",
+    "static/js/2.925eac45.chunk.js": "https://mindtwisted.github.io/fcc-markdown-previewer/static/js/2.925eac45.chunk.js",
+    "static/js/2.925eac45.chunk.js.map": "https://mindtwisted.github.io/fcc-markdown-previewer/static/js/2.925eac45.chunk.js.map",
+    "index.html": "https://mindtwisted.github.io/fcc-markdown-previewer/index.html",
+    "precache-manifest.97327327f71fbfa26c86fc470da090c1.js": "https://mindtwisted.github.io/fcc-markdown-previewer/precache-manifest.97327327f71fbfa26c86fc470da090c1.js",
+    "service-worker.js": "https://mindtwisted.github.io/fcc-markdown-previewer/service-worker.js",
+    "static/css/2.cd1899df.chunk.css.map": "https://mindtwisted.github.io/fcc-markdown-previewer/static/css/2.cd1899df.chunk.css.map",
+    "static/css/main.5facb584.chunk.css.map": "https://mindtwisted.github.io/fcc-markdown-previewer/static/css/main.5facb584.chunk.css.map",
+    "static/js/2.925eac45.chunk.js.LICENSE.txt": "https://mindtwisted.github.io/fcc-markdown-previewer/static/js/2.925eac45.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b2dcafc.js",
+    "static/css/2.cd1899df.chunk.css",
+    "static/js/2.925eac45.chunk.js",
+    "static/css/main.5facb584.chunk.css",
+    "static/js/main.0023e51c.chunk.js"
+  ]
+}
